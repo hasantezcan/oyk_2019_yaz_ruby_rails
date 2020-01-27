@@ -1,4 +1,4 @@
-#### `Özgür Yazaılım Yaz Kampı '19`
+#### `Özgür Yazılım Yaz Kampı '19`
 
 ### `Ruby on Rails - GÜN 3 - 2019.07.21`
 
