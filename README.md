@@ -17,14 +17,16 @@ Kurs eğitmen sponsoru: [**`https://lab2023.com`**](https://lab2023.com)
 | 5 | ... | [ devamı gelecek...](https://github.com/hasantezcan/oyk_2019_yaz_ruby_rails#telegram-tmehasantezcan) | ... |
 
 <p align="center">
-	<img alt="kamp_logo" src="img/readme/yaz_kampi.jpg" width="600">
+	<img href="https://kamp.linux.org.tr/2020/kis/" alt="kamp_logo" src="img/readme/yaz_kampi.jpg" width="600">
 </p>
 
 #### Katılımcılar
 ##### `Kamp boyunca yılmadan devam eden tüm katılımcı arkadaşlarıma teşekkür ediyorum.`
 
-<p align="center">
-	<img alt="katılımcılar" src="img/readme/katilimcilar.jpg" width="800">
+<p align="center" href="https://kamp.linux.org.tr/2020/kis/">
+	<a href="https://kamp.linux.org.tr/2020/kis/"> 
+		<img alt="katılımcılar" src="img/readme/katilimcilar.jpg" width="800"> 
+	</a>
 </p>
 
 #### Kurs Eğitmenleri
